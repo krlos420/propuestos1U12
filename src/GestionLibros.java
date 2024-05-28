@@ -4,7 +4,7 @@ public class GestionLibros {
         System.out.println("Menu principal");
         System.out.println("1. Listar libros");
         System.out.println("2. Nuevo libro");
-        System.out.println("3. Mofificar libro");
+        System.out.println("3. Modificar libro");
         System.out.println("4. Eliminar libro");
         System.out.println("5. Salir");
 
